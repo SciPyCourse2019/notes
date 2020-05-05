@@ -1,0 +1,7 @@
+.git_old
+*.mp4
+_site
+old/
+student_solutions
+/homework4/misc/StroopAnalysisExercise.pdf
+/homework4/misc/stroop_data_with_repeated_values.csv
